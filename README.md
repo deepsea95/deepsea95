@@ -26,6 +26,7 @@
     <img height="24px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
     Git</li>
   <li>
+    <img src="https://user-images.githubusercontent.com/106234659/191504598-3ade6f99-e1f5-4c51-8c76-537f37e5230e.png"  width="24px" height="24px">
     Bootstrap
   </li>
 </ul>

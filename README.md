@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Angelo De Rosa
 - 👀 I’m interested in technology, pc hardwere and Software Engineering
 - 🌱 I’m currently learning Full Stack Developer
-- 📫 How to reach me : angelo_derosa95@live.it
+- 📫 How to reach me : angelo.derosa95@gmail.com
 <hr>
 <em>Languages</em>
 <ul>

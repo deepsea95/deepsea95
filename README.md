@@ -1,7 +1,7 @@
 <h1>Hello, world! 👋</h1>
 
 - 👋 Hi, I’m Angelo De Rosa
-- 👀 I’m interested in technology, pc hardwere and Software Engineering
+- 👀 I’m interested in technology, pc hardwere, Software Engineering and videogames
 - 🌱 I’m currently learning Full Stack Developer
 - 📫 How to reach me : angelo.derosa95@gmail.com
 <hr>

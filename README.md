@@ -4,11 +4,10 @@
 - 👀 I’m interested in technology, pc hardwere, Software Engineering and videogames
 - 🌱 I’m currently learning Full Stack Developer
 - 📫 How to reach me : angelo.derosa95@gmail.com
+
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="50%" align="right" alt="Top Langs" src="https://camo.githubusercontent.com/041734ba4df6d1c0fa41bffe2263737adf7ac0bcb22e3a4b967ea64e02e880c6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616c616e746865616e64726f6964266c61796f75743d636f6d70616374267468656d653d636f6465535441434b72" data-canonical-src="https://github-readme-stats.vercel.app/api?username=deepsea95&show_icons=true&theme=radical" style="max-width: 100%;">
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsea95&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <em>Frontend</em>
 <ul>

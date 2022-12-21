@@ -2,16 +2,14 @@
 
 - 👋 Hi, I’m Angelo De Rosa
 - 👀 I’m interested in technology, pc hardwere, programming languages and videogames
-- 🌱 I’m currently learning Full Stack Developer
+- 🌱 I’m currently learning various programming languages 
 - 📫 How to reach me : angelo.derosa95@gmail.com
 
 <hr>
 
-<h2>tools I use</h2>
+<h2>Tools i use</h2>
 
 <p>I study various programming languages and these are the ones I currently use</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsea95&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <strong>Frontend</strong>
 
